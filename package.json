@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@bluebeela/nextjs-shopify-auth": "^0.5.0",
+    "@bluebeela/nextjs-shopify-auth": "^1.0.0",
     "@shopify/app-bridge-react": "^1.15.0",
     "@shopify/app-cli-node-generator-helper": "^1.1.2",
     "@shopify/polaris": "^5.3.1",
