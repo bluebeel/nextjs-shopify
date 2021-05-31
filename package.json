@@ -11,7 +11,6 @@
     "@bluebeela/nextjs-shopify-auth": "^1.0.0",
     "@shopify/app-bridge-react": "^1.15.0",
     "@shopify/polaris": "^5.3.1",
-    "@zeit/next-css": "^1.0.1",
     "apollo-boost": "^0.4.4",
     "cookie": "^0.4.1",
     "cross-env": "^7.0.2",

@@ -1,6 +1,4 @@
-const withCSS = require("@zeit/next-css");
-
-module.exports = withCSS({
+module.exports = {
   env: {
     API_KEY: process.env.SHOPIFY_API_KEY,
     HOST: process.env.HOST,
@@ -17,4 +15,4 @@ module.exports = withCSS({
       },
     ];
   },
-});
+};
