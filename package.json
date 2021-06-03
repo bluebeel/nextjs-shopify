@@ -29,5 +29,9 @@
   "devDependencies": {
     "@shopify/app-cli-node-generator-helper": "^1.1.2",
     "prettier": "^2.1.2"
+  },
+  "engines": {
+    "node": ">=15",
+    "npm": ">=7"
   }
 }
